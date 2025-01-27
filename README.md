@@ -1,4 +1,4 @@
-Student Performance Indicator
+END TO END MACHINE LEARNING PROJECT on Student Performance Indicator
 Life cycle of Machine learning Project
 Understanding the Problem Statement
 Data Collection
